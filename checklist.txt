@@ -1,0 +1,26 @@
+The Idea of this checklist is to ensure that I follow the CRISP-DM.
+
+The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process model that serves as the base for a data science process. It has six sequential phases:
+
+Business understanding – What does the business need?
+Data understanding – What data do we have / need? Is it clean?
+Data preparation – How do we organize the data for modeling?
+Modeling – What modeling techniques should we apply?
+Evaluation – Which model best meets the business objectives?
+Deployment – How do stakeholders access the results?
+
+
+
+What I am going to do in the project:
+
+1. Pose at least three questions related to business or real-world applications of how the data could be used.
+2. Create a Jupyter Notebook, using any associated packages you'd like, to:
+    Prepare data:
+        Gather necessary data to answer your questions
+        Handle categorical and missing data
+        Provide insight into the methods you chose and why you chose them
+    Analyze, Model, and Visualize
+        Provide a clear connection between your business questions and how the data answers them
+Communicate your business insights:
+    Create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind
+    Create a blog post to share your questions and insights with a non-technical audience
