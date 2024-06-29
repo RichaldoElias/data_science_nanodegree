@@ -17,24 +17,25 @@ conda install requirements.txt
 ```
 
 Here is the file list in the repository:
-.
-└── data_science_nanodegree
-    ├── LICENSE
-    ├── README.md
-    ├── checklist.txt
-    ├── data
-    │   ├── src                   : Contain the images that give context to the results
-    │   │   ├── competition.png
-    │   │   ├── img
-    │   │   │   ├── churn distribution.png
-    │   │   │   └── correlation.png
-    │   │   ├── offer E high churn.png
-    │   │   ├── output.png
-    │   │   └── payment ciclye.png
-    │   └── telco.csv             : Dataset containing all the data used for the analysis
-    ├── notebook
-    │   └── eda.ipynb             : Notebook file containing all the analysis
-    └── requirements.txt          : Requirement file, with all the libraries used on the project
+
+.<br>
+└── data_science_nanodegre<br>
+    ├── LICENSE<br>
+    ├── README.md<br>
+    ├── checklist.txt<br>
+    ├── data<br>
+    │   ├── src                   : Contain the images that give context to the results<br>
+    │   │   ├── competition.png<br>
+    │   │   ├── img<br>
+    │   │   │   ├── churn distribution.png<br>
+    │   │   │   └── correlation.png<br>
+    │   │   ├── offer E high churn.png<br>
+    │   │   ├── output.png<br>
+    │   │   └── payment ciclye.png<br>
+    │   └── telco.csv             : Dataset containing all the data used for the analysis<br>
+    ├── notebook<br>
+    │   └── eda.ipynb             : Notebook file containing all the analysis<br>
+    └── requirements.txt          : Requirement file, with all the libraries used on the project<br>
 
 
 
